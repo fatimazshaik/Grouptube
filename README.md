@@ -1,4 +1,4 @@
-# Youtube2View
+# GroupTube
 
 Watch Youtube and chat with friends, all in one app!
 
